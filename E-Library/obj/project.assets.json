@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Decagon_Tasks\\E-Library\\E-Library.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Decagon_Tasks\\project\\E-library\\E-Library\\E-Library.csproj",
       "projectName": "E-Library",
-      "projectPath": "C:\\Users\\hp\\Decagon_Tasks\\E-Library\\E-Library.csproj",
+      "projectPath": "C:\\Users\\hp\\Decagon_Tasks\\project\\E-library\\E-Library\\E-Library.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Decagon_Tasks\\E-Library\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Decagon_Tasks\\project\\E-library\\E-Library\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
