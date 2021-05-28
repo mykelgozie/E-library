@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-Library", "E-Library.csproj", "{5F488920-547F-4BE6-8961-80EE1D0C5027}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "E-Library", "E-Library.csproj", "{5F488920-547F-4BE6-8961-80EE1D0C5027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E-library.Lib.Data", "..\E-library.Lib.Data\E-library.Lib.Data.csproj", "{14ABF6BC-112F-4966-B7F4-16FCD6EC2FE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5F488920-547F-4BE6-8961-80EE1D0C5027}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F488920-547F-4BE6-8961-80EE1D0C5027}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F488920-547F-4BE6-8961-80EE1D0C5027}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14ABF6BC-112F-4966-B7F4-16FCD6EC2FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14ABF6BC-112F-4966-B7F4-16FCD6EC2FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14ABF6BC-112F-4966-B7F4-16FCD6EC2FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14ABF6BC-112F-4966-B7F4-16FCD6EC2FE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
